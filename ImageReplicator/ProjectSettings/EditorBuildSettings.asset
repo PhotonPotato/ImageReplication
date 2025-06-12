@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/NewImageRepApproach.unity
     guid: e29917cabfb4546938126fd0bb78dd0c
   - enabled: 0
-    path: Assets/Scenes/ImageReplicator.unity
+    path: Assets/Scenes/OldGen.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
